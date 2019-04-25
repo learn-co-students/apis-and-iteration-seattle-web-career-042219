@@ -11,7 +11,7 @@ def get_character_movies_from_api(character_name)
   end
   films=characterAr["films"]
 
-  
+
   # response_hash["results"][0]["name"]["films"]
   # characterAr[0]["films"]
 
